@@ -24,5 +24,4 @@ void PoliLinea :: LiberarMemoria (void){
         p = 0;
         num = 0;
     }
-    
 }
